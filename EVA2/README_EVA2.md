@@ -468,4 +468,8 @@ Proyecto desarrollado para la asignatura:
 
 **Ingeniería de Soluciones con Inteligencia Artificial – ISY0101**
 
+por:
+
+**Miguel Delgado**
+
 Duoc UC.
